@@ -1,2 +1,3 @@
 # Internship-projects-at-Inceptarc
-Documents practical hardware integration, sensor interfacing and calibration using dev modules
+A collection of embedded systems and electronics hardware projects completed during my internship at Inceptarc Technologies.
+This portfolio documents practical hardware integration, sensor interfacing and calibration using ESP32 module and Arduino IDE.
