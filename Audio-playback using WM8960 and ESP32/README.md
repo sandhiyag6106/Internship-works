@@ -1,4 +1,4 @@
-Overview- Audio playback by interfacing WM8960 with ESP32 S3 devkit. Audio files stored in SD card module and played through headphones/speakers.
+Overview- Implemented audio playback by interfacing WM8960 with ESP32 S3 devkit. Audio files stored on SD card module were played through headphones or speakers.
 
 Components used - ESP32 S3 devkit, WM8960 audio codec, SD Card module, SD Card, Headphones/speaker, Breadboard, Connecting wires.
 
